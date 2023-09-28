@@ -26,7 +26,7 @@
         input[type=text],label{
             width: 50%;
             padding: 10px;
-            display: flex;
+            display: flex;https://github.com/ritveek/newp.git
             margin: auto;
 }
          #button{
